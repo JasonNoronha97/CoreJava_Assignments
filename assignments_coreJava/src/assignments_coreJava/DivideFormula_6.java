@@ -4,12 +4,11 @@ package assignments_coreJava;
 
 //a/b/c
 
-
 public class DivideFormula_6 {
 
 	public static void main(String[] args) {
 		int a = 10, b = 20, c = 30;
-		System.out.println("Result : " + (a/b/c));	
+		System.out.println("Result : " + (a / b / c));
 	}
 
 }
